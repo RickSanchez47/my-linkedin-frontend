@@ -1,0 +1,1 @@
+"# my-linkedin-frontend"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/RickSanchez47/my-linkedin-frontend.gitgit push -u origin main
